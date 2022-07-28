@@ -12,4 +12,5 @@
 Функции(пример):
   /car/isavailable?id=1&from=2022-01-01&to=2022-01-12
   /car/getcost?id=1&from=2022-01-01&to=2022-01-12
-  /boo/dobook?id=1&from=2022-07-11&to=2022-07-20
+  /boo/dobook?id=1&from=2022-07-11&to=2022-07-20<br>
+  Знаком с Nestjs 3 дня. Очень удобный фреймворк.
