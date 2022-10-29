@@ -13,4 +13,4 @@
   /car/isavailable?id=1&from=2022-01-01&to=2022-01-12<br>
   /car/getcost?id=1&from=2022-01-01&to=2022-01-12<br>
   /boo/dobook?id=1&from=2022-07-11&to=2022-07-20<br>
-  Знаком с Nestjs 3 дня. Очень удобный фреймворк.
+Nestjs очень удобный фреймворк.
